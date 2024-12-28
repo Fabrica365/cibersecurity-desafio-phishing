@@ -1,10 +1,8 @@
-A versão atual da página do facebook protege o site contra este ataque.
+A versão atual do Facebook protege o site contra este tipo de ataque.
 
-Achei uma forma de burlar esta defesa para concluir o desafio em 
+Encontrei um aluno que orientou em https://github.com/RLLKLLSS/cibersecurity-desafio-phishing.
 
-https://github.com/RLLKLLSS/cibersecurity-desafio-phishing
-
-Basicamente segui os passos, mas antes instalei o sublimetext para conseguir visualizar o codigo conforme as orientações.
+Segui seus passos e consegui concluir o desafio, aprendendo mais uma forma de poder localizar o script que protege e removendo-o.
 
 Então consegui concluir o desafio.
 
